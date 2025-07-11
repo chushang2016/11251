@@ -1,4 +1,4 @@
-#  11251_springboot在线小说阅读平台演示2023abo
+#  11251_springboot在线小说阅读平台
  
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -7,7 +7,7 @@
 
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
-* 项目源代码下载地址:http://blog.codercode.cn/#/home/goodDetail?goodId=11251
+* 项目源代码下载地址:https://bysj.bsitem.com/#/home/goodDetail?goodId=11251
 
 * 项目演示视频:  https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/386%E5%A5%97-3-springboot%E5%BD%95%E5%83%8F/springboot/11251_springboot%E5%9C%A8%E7%BA%BF%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%B9%B3%E5%8F%B0%E6%BC%94%E7%A4%BA%E5%BD%95%E5%83%8F2023abo.mp4
 
